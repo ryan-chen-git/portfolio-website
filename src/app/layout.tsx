@@ -37,7 +37,7 @@ export default function RootLayout({
   return (
     <html lang="en">
       <head>
-        <title>Stephen Hung</title>
+        <title>Ryan Chen</title>
         <meta name="description" content="Personal portfolio and projects" />
       </head>
       <body
